@@ -1,0 +1,8 @@
+1.crear escena
+2.camara
+3.crear objeto
+4. luz
+5.renderizar
+6.controles de orbita
+7.animaciones
+8.manejar el resize de la ventana
